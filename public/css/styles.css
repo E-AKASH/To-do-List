@@ -1,0 +1,21 @@
+body{
+    margin-top:10px;
+    background-color: aqua;
+    text-align: center;
+}
+
+#id{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+li{
+    list-style: none;
+    margin:0px;
+    text-align: center;
+}
+
+#item{
+    display:inline-block;
+}
